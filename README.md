@@ -63,5 +63,7 @@ And finally move our “.codesnippet” files to this folder.
 	- cvcontroller: UICollectionViewController
 
 As a gift, you can install a the [One Dark theme for Xcode](https://github.com/bojan/xcode-one-dark) 
-for your code following above steps, go to “FontAndColorThemes” folder and paste “One Dark.xccolortheme” file.
+for your code following above steps:
+
+Go to “FontAndColorThemes” folder and paste “One Dark.xccolortheme” file.
 Then open Xcode and go to “Preferences > Fonts & Colors” and choose “One Dark Theme”.
