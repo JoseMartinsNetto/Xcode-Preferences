@@ -1,6 +1,7 @@
 # Xcode Snippets
 
-
+**This repository is inspirated and copied from [AlbertoLourenco/Xcode-Snippets](https://github.com/AlbertoLourenco/Xcode-Snippets)**
+**with some modifications**
 
 Developed for Objective-C and Swift.
 
