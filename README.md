@@ -8,11 +8,8 @@ Developed for Objective-C and Swift.
 Here we have a short documentation of Xcode snippets shortcuts. Follow this steps to import these files and do code more fast:
 
 * Open Finder, choose “Go > Go to Folder”:
-
 * ~/Library/Developer/Xcode/UserData
-
 * Create a folder named "CodeSnippets" if doesn't exists.
-
 * And finally move our “.codesnippet” files to this folder.
 
 **IBOutlets**
