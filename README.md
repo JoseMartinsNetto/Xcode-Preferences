@@ -7,11 +7,13 @@ Developed for Objective-C and Swift.
 
 Here we have a short documentation of Xcode snippets shortcuts. Follow this steps to import these files and do code more fast:
 
-Open Finder, choose “Go > Go to Folder”:
+* Open Finder, choose “Go > Go to Folder”:
 
-~/Library/Developer/Xcode/UserData
+* ~/Library/Developer/Xcode/UserData
 
-And finally move our “.codesnippet” files to this folder.
+* Create a folder named "CodeSnippets" if doesn't exists.
+
+* And finally move our “.codesnippet” files to this folder.
 
 **IBOutlets**
 
@@ -65,5 +67,6 @@ And finally move our “.codesnippet” files to this folder.
 As a gift, you can install a the [One Dark theme for Xcode](https://github.com/bojan/xcode-one-dark) 
 for your code following above steps:
 
-* Go to “FontAndColorThemes” folder and paste “One Dark.xccolortheme” file.
+* Go to “FontAndColorThemes” folder and paste “One Dark.xccolortheme” files.
+* Create FontAndColorThemes folder if doesn't exists.
 * Then open Xcode and go to “Preferences > Fonts & Colors” and choose “One Dark Theme”.
