@@ -1,17 +1,16 @@
 # Xcode Preferences
 
 **This repository is inspirated and copied from [AlbertoLourenco/Xcode-Snippets](https://github.com/AlbertoLourenco/Xcode-Snippets)**
-**with some modifications**
+**with some modifications.**
 
 Developed for Objective-C and Swift.
 
 Here we have a short documentation of Xcode snippets shortcuts. Follow this steps to import these files and do code more fast:
 
-Open Finder, choose “Go > Go to Folder”:
-
-~/Library/Developer/Xcode/UserData
-
-And finally move our “.codesnippet” files to this folder.
+* Open Finder, choose “Go > Go to Folder”:
+* ~/Library/Developer/Xcode/UserData
+* Create a folder named "CodeSnippets" if doesn't exists.
+* And finally move our “.codesnippet” files to this folder.
 
 **IBOutlets**
 
@@ -63,5 +62,8 @@ And finally move our “.codesnippet” files to this folder.
 	- cvcontroller: UICollectionViewController
 
 As a gift, you can install a the [One Dark theme for Xcode](https://github.com/bojan/xcode-one-dark) 
-for your code following above steps, go to “FontAndColorThemes” folder and paste “One Dark.xccolortheme” file.
-Then open Xcode and go to “Preferences > Fonts & Colors” and choose “One Dark Theme”.
+for your code following above steps:
+
+* Go to “FontAndColorThemes” folder and paste “One Dark.xccolortheme” files.
+* Create FontAndColorThemes folder if doesn't exists.
+* Then open Xcode and go to “Preferences > Fonts & Colors” and choose “One Dark Theme”.
