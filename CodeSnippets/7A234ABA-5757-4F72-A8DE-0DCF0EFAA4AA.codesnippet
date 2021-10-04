@@ -3,21 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>iblbl</string>
+	<string>mark</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet private var lbl&lt;#varname#&gt;: UILabel!</string>
+	<string>
+//-----------------------------------------------------------------------
+//    MARK: - &lt;#description#&gt;
+//-----------------------------------------------------------------------
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>486D54F5-1972-4941-BAEF-B4EF03CC1B5A</string>
+	<string>7A234ABA-5757-4F72-A8DE-0DCF0EFAA4AA</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Swift</string>
+	<string>Create a pragma mark</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>IBOutlet - UILabel</string>
+	<string>Mark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

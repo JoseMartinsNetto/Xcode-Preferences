@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@IBOutlet var wv&lt;#varname#&gt;: UIWebView!</string>
+	<string>@IBOutlet private var wv&lt;#varname#&gt;: UIWebView!</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>39FAE83E-F214-4E9D-A968-6A8335520BCE</string>
 	<key>IDECodeSnippetLanguage</key>
