@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>    @IBAction private func &lt;#functionName#&gt;(&lt;#parameters#&gt;) {
-        
+        &lt;#code#&gt;
     }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FCED16AF-9499-4DD6-A2C3-77DE2B696671</string>
@@ -23,6 +23,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
